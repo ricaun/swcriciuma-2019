@@ -2,9 +2,13 @@
 
 Arquivos do trofeu do Startup Weekend Criciúma 2019.
 
+<a href="https://www.instagram.com/swcriciuma/">
+<img src="image/swcriciuma.jpg" alt="swcriciuma" width="40%">
+</a>
+
 O trofeu foi modelado em duas partes, base em branco e trofeu em laranja. O trofeu e base do primeiro lugar é maior que os demais, os demais são todos do mesmo tamanho.
 
-Instagram da comunidade [swcriciuma](https://www.instagram.com/swcriciuma/).
+Instagram da comunidade [@swcriciuma](https://www.instagram.com/swcriciuma/).
 
 ## 3d Model
 <a href="model">
